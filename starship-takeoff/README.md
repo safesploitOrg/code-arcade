@@ -17,6 +17,14 @@ To play Starship Takeoff, follow these simple steps:
 5. Receive feedback on whether your guess is too low or too high.
 6. Keep guessing until you correctly guess the launch code or run out of attempts.
 
+## Installation
+
+Before running the game, make sure you have the required dependencies installed. You can install them using the following command:
+
+```bash
+pip3 install -r requirements.txt
+```
+
 ## Features
 
 - Randomly generated launch code ensures a unique experience each time you play.
